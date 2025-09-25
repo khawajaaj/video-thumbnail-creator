@@ -1,9 +1,28 @@
 {
-  "name": "video-thumbnail-creator", 
-  "version": "1.0.0",
+  "name": "video-thumbnail-creator",
+  "version": "1.0.3",
+  "description": "A simple utility to generate thumbnails from video files in the browser.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
+  },
+  "keywords": [
+    "video",
+    "thumbnail",
+    "generator",
+    "creator",
+    "frame",
+    "browser"
+  ],
+  "author": "Khawaja Awais <khawaja.aj01@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khawajaaj/video-thumbnail-creator"
+  },
+  "homepage": "https://github.com/khawajaaj/video-thumbnail-creator?tab=readme-ov-file#-video-thumbnail-creator",
+  "bugs": {
+    "url": "https://github.com/khawajaaj/video-thumbnail-creator/issues"
   }
 }
